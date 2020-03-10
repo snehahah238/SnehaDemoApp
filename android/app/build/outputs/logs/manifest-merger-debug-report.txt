@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_masked-view] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-cardview] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-cardview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0f2a43ea226e046e0695a554315f338d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ce45c255dbbea4571ed1ecbed7fb507f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\f7ab418ce6a88f8c5469f144efb8ec22\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\83fef89a0fc8789b2dd2515b28fb700f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\62c75db056ef23faf4cd1f7bc3a58d57\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\52fd4ee7c9880223fdaf0bd280d49783\AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\181d2b0cb366d595f59031b8511fcb3b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e7457f804c2b3991dfcdacf45d9e5acf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\db4030d49cbff08ba00fc694e991cf4f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\34d3f4150898f1a299e50bbbab2056ed\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\90758b3c6d1a9667690f9bf8563ed933\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\4ae01c0d8e331b74ecc56c9a2b8ed01b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\5c77e7490d9d6e173f4cbfffd0a6a7f9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6af3846332a32c01f5d51b1a45f705f5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ed2e81d1bedcc1e0a0919235c9764514\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\26922af73760c6a0fa33b82fd5fb8be2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3ce06748f49440ea027aef2af86cbc39\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\874a4d3e929e893c7794a3ab6955eff4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ae9d017dcb712ba46f33819974cbf7b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b62cc14c817d8747ae6fed474d241650\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\31b3fab993efa0c3e70c364a921d4aa8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\91ab5b5ecf1709343d497a28b5614a76\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7c573ca660a3301d8debd33a89506a5d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\50801a212fa7f5a003e30d34207b9d66\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0bb5a0225e6675098f170ec17c2c0dd0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\498a058bf7ac6acccc56c25f2b8997a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6aba8a509f428d1eb603d0fd17079167\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ecd8f6aaa1a24aff266d4a1c5de17ce0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ad947e7caaf7834854e81612a751f2ff\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\210acd7bb6db1313caf4dc51b18d037f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c23fabb4329c8825945857cbc0f89e11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\74e0a04271800ca9c72e1124a9654535\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0fcbd8285ebcfdcead7b3b17dfda2952\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\615c0f1342425c8de52925c7c5e9e98b\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8ea6ff0a2727f4364a124646f5918409\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d6cf5139a385356bfd22236dac38d692\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e6d54ed007638a7d6bce4e7cd2b02f97\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\cf239ed00b34dd4394d86bc1a74eafce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\29b2f4b6acb5f955a14a9b8282e283c9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\18680a21d9169c19b51e906291deecac\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\47e126df2370853a9564b44dbaf1c521\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\aeab3879d54d5b455b18521cb5594e1b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\37804e80ef751e6740c10ce6f1028fe7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\1bf7ca3230fed28d1c97ff93bf72e46f\AndroidManifest.xml:2:1-9:12
+INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0f2a43ea226e046e0695a554315f338d\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0f2a43ea226e046e0695a554315f338d\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ce45c255dbbea4571ed1ecbed7fb507f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ce45c255dbbea4571ed1ecbed7fb507f\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ed2e81d1bedcc1e0a0919235c9764514\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ed2e81d1bedcc1e0a0919235c9764514\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\74e0a04271800ca9c72e1124a9654535\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\74e0a04271800ca9c72e1124a9654535\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\615c0f1342425c8de52925c7c5e9e98b\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\615c0f1342425c8de52925c7c5e9e98b\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\74e0a04271800ca9c72e1124a9654535\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.imperoit.MainActivity
+ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml
+MERGED from [:@react-native-community_masked-view] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-cardview] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-cardview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-cardview] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-cardview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] F:\sneha\ReacPro\ReactNative\IMPERO_IT\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0f2a43ea226e046e0695a554315f338d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0f2a43ea226e046e0695a554315f338d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ce45c255dbbea4571ed1ecbed7fb507f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ce45c255dbbea4571ed1ecbed7fb507f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\f7ab418ce6a88f8c5469f144efb8ec22\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\f7ab418ce6a88f8c5469f144efb8ec22\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\83fef89a0fc8789b2dd2515b28fb700f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\83fef89a0fc8789b2dd2515b28fb700f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\62c75db056ef23faf4cd1f7bc3a58d57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\62c75db056ef23faf4cd1f7bc3a58d57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\52fd4ee7c9880223fdaf0bd280d49783\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\52fd4ee7c9880223fdaf0bd280d49783\AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\181d2b0cb366d595f59031b8511fcb3b\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\181d2b0cb366d595f59031b8511fcb3b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e7457f804c2b3991dfcdacf45d9e5acf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e7457f804c2b3991dfcdacf45d9e5acf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\db4030d49cbff08ba00fc694e991cf4f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\db4030d49cbff08ba00fc694e991cf4f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\34d3f4150898f1a299e50bbbab2056ed\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\34d3f4150898f1a299e50bbbab2056ed\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\90758b3c6d1a9667690f9bf8563ed933\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\90758b3c6d1a9667690f9bf8563ed933\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\4ae01c0d8e331b74ecc56c9a2b8ed01b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\4ae01c0d8e331b74ecc56c9a2b8ed01b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\5c77e7490d9d6e173f4cbfffd0a6a7f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\5c77e7490d9d6e173f4cbfffd0a6a7f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6af3846332a32c01f5d51b1a45f705f5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6af3846332a32c01f5d51b1a45f705f5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ed2e81d1bedcc1e0a0919235c9764514\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ed2e81d1bedcc1e0a0919235c9764514\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\26922af73760c6a0fa33b82fd5fb8be2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\26922af73760c6a0fa33b82fd5fb8be2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3ce06748f49440ea027aef2af86cbc39\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3ce06748f49440ea027aef2af86cbc39\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\874a4d3e929e893c7794a3ab6955eff4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\874a4d3e929e893c7794a3ab6955eff4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ae9d017dcb712ba46f33819974cbf7b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ae9d017dcb712ba46f33819974cbf7b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b62cc14c817d8747ae6fed474d241650\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b62cc14c817d8747ae6fed474d241650\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\31b3fab993efa0c3e70c364a921d4aa8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\31b3fab993efa0c3e70c364a921d4aa8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\91ab5b5ecf1709343d497a28b5614a76\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\91ab5b5ecf1709343d497a28b5614a76\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7c573ca660a3301d8debd33a89506a5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7c573ca660a3301d8debd33a89506a5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\50801a212fa7f5a003e30d34207b9d66\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\50801a212fa7f5a003e30d34207b9d66\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0bb5a0225e6675098f170ec17c2c0dd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0bb5a0225e6675098f170ec17c2c0dd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\498a058bf7ac6acccc56c25f2b8997a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\498a058bf7ac6acccc56c25f2b8997a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6aba8a509f428d1eb603d0fd17079167\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6aba8a509f428d1eb603d0fd17079167\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ecd8f6aaa1a24aff266d4a1c5de17ce0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ecd8f6aaa1a24aff266d4a1c5de17ce0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ad947e7caaf7834854e81612a751f2ff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ad947e7caaf7834854e81612a751f2ff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\210acd7bb6db1313caf4dc51b18d037f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\210acd7bb6db1313caf4dc51b18d037f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c23fabb4329c8825945857cbc0f89e11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c23fabb4329c8825945857cbc0f89e11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\74e0a04271800ca9c72e1124a9654535\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\74e0a04271800ca9c72e1124a9654535\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0fcbd8285ebcfdcead7b3b17dfda2952\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0fcbd8285ebcfdcead7b3b17dfda2952\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\615c0f1342425c8de52925c7c5e9e98b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\615c0f1342425c8de52925c7c5e9e98b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8ea6ff0a2727f4364a124646f5918409\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8ea6ff0a2727f4364a124646f5918409\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d6cf5139a385356bfd22236dac38d692\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d6cf5139a385356bfd22236dac38d692\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e6d54ed007638a7d6bce4e7cd2b02f97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e6d54ed007638a7d6bce4e7cd2b02f97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\cf239ed00b34dd4394d86bc1a74eafce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\cf239ed00b34dd4394d86bc1a74eafce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\29b2f4b6acb5f955a14a9b8282e283c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\29b2f4b6acb5f955a14a9b8282e283c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\18680a21d9169c19b51e906291deecac\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\18680a21d9169c19b51e906291deecac\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\47e126df2370853a9564b44dbaf1c521\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\47e126df2370853a9564b44dbaf1c521\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\aeab3879d54d5b455b18521cb5594e1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\aeab3879d54d5b455b18521cb5594e1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\37804e80ef751e6740c10ce6f1028fe7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\37804e80ef751e6740c10ce6f1028fe7\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\1bf7ca3230fed28d1c97ff93bf72e46f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\1bf7ca3230fed28d1c97ff93bf72e46f\AndroidManifest.xml:5:5-7:41
+INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml
+INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from F:\sneha\ReacPro\ReactNative\IMPERO_IT\android\app\src\debug\AndroidManifest.xml:5:22-75
